@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flytta knapp", "flytta knapp\flytta knapp.csproj", "{E7A9F41E-56D2-4229-8AD9-CCDEFD13CCFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7A9F41E-56D2-4229-8AD9-CCDEFD13CCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A9F41E-56D2-4229-8AD9-CCDEFD13CCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A9F41E-56D2-4229-8AD9-CCDEFD13CCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A9F41E-56D2-4229-8AD9-CCDEFD13CCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF93491B-61B0-467F-BBBF-82583973B9D1}
+	EndGlobalSection
+EndGlobal
